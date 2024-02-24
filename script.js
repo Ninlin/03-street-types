@@ -9,7 +9,7 @@ const map = new mapboxgl.Map({
   minZoom: 9
 });
 
-const city = 'Göteborg'
+const city = 'Stockholm'
 $("#title").text(city);
 
 
